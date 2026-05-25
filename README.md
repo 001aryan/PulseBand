@@ -1,6 +1,6 @@
 # PulseBand — ESP32 Wearable Heart Rate Monitor
 
-![PulseBand prototype on wrist](arm_monitor.jpg)
+![PulseBand prototype on wrist](images/arm_monitor.jpg)
 
 PulseBand is a wearable IoT heart-rate monitoring system built using an ESP32, a pulse sensor, and an SSD1306 OLED display. The device measures pulse activity, calculates BPM (beats per minute), displays live statistics on-device, and streams real-time data to a modern web dashboard.
 
@@ -368,15 +368,18 @@ Downloads CSV logs.
 
 # Screenshots
 
-Add screenshots here:
+Below are screenshots of the dashboard and a device photo (will render on GitHub when these files are present in `images/`):
 
-```text
-dashboard1.png
-dashboard2.png
-dashboard3.png
-dashboard4.png
-arm_monitor.jpg
-```
+<p align="center">
+  <img src="images/dashboard1.png" alt="Dashboard 1" width="45%" style="margin:4px;" />
+  <img src="images/dashboard2.png" alt="Dashboard 2" width="45%" style="margin:4px;" />
+</p>
+
+<p align="center">
+  <img src="images/dashboard3.png" alt="Dashboard 3" width="45%" style="margin:4px;" />
+  <img src="images/dashboard4.png" alt="Dashboard 4" width="45%" style="margin:4px;" />
+</p>
+
 
 ---
 
