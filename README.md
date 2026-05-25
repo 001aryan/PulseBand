@@ -368,7 +368,7 @@ Downloads CSV logs.
 
 # Screenshots
 
-Below are screenshots of the dashboard and a device photo (will render on GitHub when these files are present in `images/`):
+Below are screenshots of the dashboard:
 
 <p align="center">
   <img src="images/dashboard1.png" alt="Dashboard 1" width="45%" style="margin:4px;" />
